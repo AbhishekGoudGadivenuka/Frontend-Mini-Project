@@ -1,0 +1,36 @@
+.maincontainer{
+    margin-top: 3rem;
+}
+.textfield{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+.textfieldbar{
+    width: 40rem;
+    height: 3.5rem;
+    border-radius: 3rem;
+    padding-left: 1rem;
+}
+input[type=text]:focus{
+    outline-color: #81e5fc !important;
+    
+    border: 0.5rem  #81e5fc;
+    border-color: #fcf281 !important;
+}
+::-webkit-input-placeholder { 
+    padding-left: 0.5rem;
+}
+.bot{
+    background-color: #4c57ef;
+    width: 5rem;
+    color:whitesmoke;
+    border-radius: 3rem;
+    height: 3.5rem;
+}
+.bot:hover{
+    background-color: #81cbfc;
+}
+.mainfield{
+    margin-top: 3rem;
+}

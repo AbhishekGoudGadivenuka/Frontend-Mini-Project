@@ -1,0 +1,22 @@
+.card {
+    width: 25rem;
+    box-shadow: rgba(0, 0, 0, 0.437) 0px 5px 15px;
+    height: 33rem;
+    display: grid;
+    margin: auto;
+    margin-bottom: 25px;
+  }
+  .lead {
+    color: darkred;
+  }
+  .h {
+    width: 50%;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+  }
+  h1{
+    text-align: center;
+    padding-bottom: 5px;
+    color: rgb(255, 0, 0);
+  }

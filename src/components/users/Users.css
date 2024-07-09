@@ -1,0 +1,17 @@
+.card{
+    box-shadow: 0 29px 52px rgba(0,0,0,0.40), 0 25px 16px rgba(0,0,0,0.20);
+    height: 20rem;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.card:hover{
+    box-shadow: 0px 9px 30px rgba(255, 149, 5, 0.3);
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #000000;
+    color: whitesmoke;
+}
+p{
+    color: rgb(151, 115, 222);
+}

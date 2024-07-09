@@ -1,0 +1,29 @@
+
+.Child-container {
+  display: flex;
+  justify-content: center;
+  margin-right: 50px;
+  padding: 50px;
+  margin-top: 10px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background-color: #f4ee7e;
+}
+
+.Child-container button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 10px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Child-container button:hover {
+  background-color: #45a049;
+  color: whitesmoke;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}

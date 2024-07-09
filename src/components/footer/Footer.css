@@ -1,0 +1,20 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .foot {
+    list-style: none;
+  }
+  
+  .foot li {
+    margin-bottom: 5px;
+  }
+  .foot li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
